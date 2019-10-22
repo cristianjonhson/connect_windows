@@ -1,0 +1,7 @@
+C:\Users\Alexis\AppData\Local\Temporary Projects\conexionWindows\bin\Debug\conexionWindows.exe
+C:\Users\Alexis\AppData\Local\Temporary Projects\conexionWindows\bin\Debug\conexionWindows.pdb
+C:\Users\Alexis\AppData\Local\Temporary Projects\conexionWindows\obj\x86\Debug\conexionWindows.Form1.resources
+C:\Users\Alexis\AppData\Local\Temporary Projects\conexionWindows\obj\x86\Debug\conexionWindows.Properties.Resources.resources
+C:\Users\Alexis\AppData\Local\Temporary Projects\conexionWindows\obj\x86\Debug\conexionWindows.csproj.GenerateResource.Cache
+C:\Users\Alexis\AppData\Local\Temporary Projects\conexionWindows\obj\x86\Debug\conexionWindows.exe
+C:\Users\Alexis\AppData\Local\Temporary Projects\conexionWindows\obj\x86\Debug\conexionWindows.pdb
